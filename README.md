@@ -1,4 +1,4 @@
-A <a href="bitcoin-paper-wallet.org">Bitcoin paper wallet</a> is a physical document or printout that contains the information necessary to store and access your Bitcoin funds. It typically includes the Bitcoin address for receiving funds and the corresponding private key for spending those funds. Here's a general overview of how to create a Bitcoin paper wallet:
+A <a href="https://bitcoin-paper-wallet.org">Bitcoin paper wallet</a> is a physical document or printout that contains the information necessary to store and access your Bitcoin funds. It typically includes the Bitcoin address for receiving funds and the corresponding private key for spending those funds. Here's a general overview of how to create a Bitcoin paper wallet:
 
     Generate a new Bitcoin address: You can use a trusted Bitcoin wallet software or an online service to generate a new Bitcoin address. This address will be used to receive funds.
 
